@@ -1,0 +1,1 @@
+print('entrenamiento muy loco')
